@@ -31,4 +31,12 @@ This project simulates real-world cloud service failures and demonstrates how re
 
 ## 📁 GitHub Repository Structure
 
+chaos-resilience-scorecard/
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── backend.tf
+├── lambda_remediation/
+│   ├── index.py
+├── README.md
 
